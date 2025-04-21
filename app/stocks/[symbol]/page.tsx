@@ -14,7 +14,7 @@ import {
   Info,
   Mail, 
   Share2,
-  TrendingUp, 
+  TrendingUp,
 } from "lucide-react";
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter } from "@/components/ui/card";
